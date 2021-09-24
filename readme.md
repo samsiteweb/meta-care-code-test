@@ -15,7 +15,7 @@ How to run the App
 This App is dockerize and can also be lauched using the .dockerfile.
 
 * API DOC:- https://documenter.getpostman.com/view/13483065/UUxwEVn7
-* API LIVE-URL:-
+* API LIVE-URL:- https://fierce-coast-03725.herokuapp.com
 
 Thank you.
 
