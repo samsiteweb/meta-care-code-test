@@ -1,4 +1,4 @@
-#Metacare Code Test
+# Metacare Code Test
 
 This a code test written for metacare
 
@@ -14,8 +14,8 @@ How to run the App
 
 This App is dockerize and can also be lauched using the .dockerfile.
 
-API DOC:- https://documenter.getpostman.com/view/13483065/UUxwEVn7
-API LIVE-URL:-
+* API DOC:- https://documenter.getpostman.com/view/13483065/UUxwEVn7
+* API LIVE-URL:-
 
 Thank you.
 
